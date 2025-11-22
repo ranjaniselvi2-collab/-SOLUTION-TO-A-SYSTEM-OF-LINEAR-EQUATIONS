@@ -26,8 +26,6 @@ print(x)
 ```
 
 ## Output:
-<img width="1908" height="908" alt="Screenshot 2025-11-22 135854" src="https://github.com/user-attachments/assets/008c0387-2491-46ce-a606-ce091b2bc9d6" />
-
 <img width="1888" height="485" alt="Screenshot 2025-11-22 135921" src="https://github.com/user-attachments/assets/bc4fa36f-211c-4202-ad70-e50f1a936174" />
 
 
